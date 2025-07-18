@@ -1,7 +1,7 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
-export default function ClaridadGlifoServicio() {
+export default function Home() {
   return (
     <div className="grid grid-cols-1 gap-6 p-6 max-w-3xl mx-auto">
       <h1 className="text-3xl font-bold text-center">Encuentra claridad en tu vida</h1>
