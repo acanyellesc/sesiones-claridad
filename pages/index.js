@@ -1,4 +1,4 @@
-import ClaridadGlifoServicio from './index.js';
+import ClaridadGlifoServicio from './claridad-glifo-servicio.js';
 
 export default function Home() {
   return <ClaridadGlifoServicio />;
